@@ -76,7 +76,7 @@
         <property name="packagesToScan" value="playerMng.entity" />
         <property name="hibernateProperties">
             <props>
-                <prop key="hibernate.dialect">org.hibernate.dialect.PostgreSQL82Dialect</prop>
+                <prop key="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</prop>
                 <prop key="hibernate.show_sql">true</prop>
                 <prop key="hibernate.useUnicode">true</prop>
                 <prop key="hibernate.characterEncoding">utf8</prop>
