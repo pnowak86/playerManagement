@@ -12,7 +12,7 @@ In order to run this app you need to install:
 
 ## Installing
 
-Step by step:
+Step by step in Linux terminal:
 
 <b>1. Clone or download repository:</b>
 
@@ -46,7 +46,12 @@ mvn -version
 path_to_app/../playerManagement/mvn tomcat7:run
 ```
 
-## Acces application
+<b>5. Stopping application:</b>
+```
+Ctrl + C
+```
+
+## Access application
 If app run correctly you can get access to it by opening your web browser and enter:
 
 ```
